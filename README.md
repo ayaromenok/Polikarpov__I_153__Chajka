@@ -4,7 +4,10 @@
 Latest biplane of Nikolay Policarpov. Produced in 1939-1941. Whidely used at the begining of WW2.
 
 
-### 
+### Work-in-Progress
+
+Right now it's more mid-poly model in scale 1:1.
+
 ![I-153](/img/20260516_begin.jpg)
 
 ### More info about I-153
