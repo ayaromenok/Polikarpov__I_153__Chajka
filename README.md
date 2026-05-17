@@ -8,7 +8,7 @@ Latest biplane of Nikolay Policarpov. Produced in 1939-1941. Whidely used at the
 
 Right now it's more mid-poly model in scale 1:1.
 
-![I-153](/img/20260516_begin.jpg)
+![I-153](/img/20260517.jpg)
 
 ### More info about I-153
 - General info (EN) https://en.wikipedia.org/wiki/Polikarpov_I-153
